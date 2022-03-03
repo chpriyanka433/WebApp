@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "department_name": "Pathology ",
+      "status": "Active"
+    },
+    {
+      "id": 1,
+      "department_name": "Nursing",
+      "status": "InActive"
+    },
+    {
+      "id": 1,
+      "department_name": "Paramedical ",
+      "status": "InActive"
+    }
+    
+   
+]
+  

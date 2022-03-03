@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "Room_No": "A101 ",
+      "Patient": "Aman dubey",
+      "Allotment": "1 Jun 2019 ",
+      "Discharge": " 7 Jun 2019",
+      "Room_Type": "general"
+    },
+    {
+        "id": 2,
+        "Room_No": "A102 ",
+        "Patient": "Diwesh gupta",
+        "Allotment": "7 Jun 2019 ",
+        "Discharge": "18 Jun 2019",
+        "Room_Type": "general"
+      }
+      
+   
+]
+  
